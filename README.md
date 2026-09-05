@@ -1,4 +1,4 @@
-# Code-TSC-250526
+# Code-CSLAKA+
 
 ### This repository contains a Python-based testing code designed to evaluate the computational costs of various cryptographic operations. The operations tested include Fuzzy Extractor, Hash function, PUF (Physically Unclonable Function), Scalar-Scalar multiplication, Chebyshev chaotic-map, and Multi-Scalar multiplication. 
 
